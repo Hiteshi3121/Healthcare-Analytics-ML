@@ -1,0 +1,23 @@
+﻿DoctorID,DoctorName,Gender,DepartmentID,Specialty,ExperienceYears,Total patients count,Total Patient Revenue,AVG of Total Patient Revenue
+1,Dr. Arjun Sharma,M,1,Cardiologist,23,54,"₹ 3,20,059.00","₹ 5,927.02"
+2,Dr. Priya Menon,F,2,Endocrinologist,6,18,"₹ 82,797.00","₹ 4,599.83"
+3,Dr. Rahul Verma,M,3,Neurologist,3,47,"₹ 2,49,223.00","₹ 5,302.62"
+4,Dr. Sunita Iyer,F,4,Pulmonologist,26,54,"₹ 3,16,166.00","₹ 5,854.93"
+5,Dr. Karan Mehta,M,5,Oncologist,11,12,"₹ 87,104.00","₹ 7,258.67"
+6,Dr. Anjali Nair,F,6,Nephrologist,10,22,"₹ 1,38,723.00","₹ 6,305.59"
+7,Dr. Vijay Reddy,M,7,Rheumatologist,10,26,"₹ 1,57,270.00","₹ 6,048.85"
+8,Dr. Deepa Joshi,F,8,Hepatologist,7,17,"₹ 92,667.00","₹ 5,451.00"
+9,Dr. Suresh Pillai,M,9,General Physician,26,204,"₹ 11,96,097.00","₹ 5,863.22"
+10,Dr. Meera Patel,F,1,Cardiologist,6,60,"₹ 3,66,489.00","₹ 6,108.15"
+11,Dr. Arun Kumar,M,2,Endocrinologist,24,15,"₹ 82,318.00","₹ 5,487.87"
+12,Dr. Lakshmi Rao,F,3,Neurologist,26,48,"₹ 2,87,649.00","₹ 5,992.69"
+13,Dr. Nitin Gupta,M,4,Pulmonologist,20,50,"₹ 3,05,620.00","₹ 6,112.40"
+14,Dr. Pooja Agarwal,F,5,Oncologist,5,24,"₹ 1,39,776.00","₹ 5,824.00"
+15,Dr. Ramesh Bhat,M,6,Nephrologist,21,22,"₹ 1,57,509.00","₹ 7,159.50"
+16,Dr. Divya Singh,F,7,Rheumatologist,16,14,"₹ 88,694.00","₹ 6,335.29"
+17,Dr. Mohan Das,M,8,Hepatologist,4,28,"₹ 1,68,865.00","₹ 6,030.89"
+18,Dr. Kavita Shah,F,9,General Physician,3,214,"₹ 13,03,587.00","₹ 6,091.53"
+19,Dr. Sunil Chopra,M,1,Cardiologist,5,52,"₹ 2,98,207.00","₹ 5,734.75"
+20,Dr. Ananya Krishnan,F,2,Endocrinologist,9,19,"₹ 1,14,432.00","₹ 6,022.74"
+,,,,,,,,
+,,,,,,,"₹ 59,53,252.00",

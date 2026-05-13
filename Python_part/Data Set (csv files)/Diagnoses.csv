@@ -1,0 +1,11 @@
+﻿DiagnosisID,DiagnosisName,Patient Count,Patient Count %
+1,Hypertension,100,10%
+2,Diabetes,106,11%
+3,Heart Disease,112,11%
+4,Asthma,100,10%
+5,Stroke,98,10%
+6,COPD,92,9%
+7,Cancer,87,9%
+8,Arthritis,103,10%
+9,Kidney Disease,107,11%
+10,Liver Disease,95,10%
