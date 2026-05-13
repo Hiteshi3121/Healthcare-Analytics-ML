@@ -1,7 +1,9 @@
 # 🏥 Healthcare Data Analytics — End-to-End Learning Project
 
 > A hands-on data analytics learning journey built around a real-world healthcare dataset —
-> covering SQL, Excel, Python (Pandas · NumPy · Scikit-learn) and a deployed ML prediction app.
+> covering SQL, Excel, Python (Pandas · NumPy · Scikit-learn) and a deployed ML prediction app with 4 different Machine learing models.
+> Here is the Link for the project's output recording -
+> <img width="2084" height="888" alt="model_comparison" src="https://github.com/user-attachments/assets/dfc69aba-0416-419c-8f02-3bd4aa55f0ad" />
 
 ---
 
