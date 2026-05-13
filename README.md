@@ -8,6 +8,9 @@
 > Python_Part - https://drive.google.com/file/d/1yuit0_iketLLgNuc8SvXoqy2Kqw4Afd1/view?usp=drive_link
 > 
 > SQL_Part - https://drive.google.com/file/d/11gPADcaRT9m85Uvg8xmf8gxbe37nfmm8/view?usp=drive_link
+>
+> 
+> Model Comparison Output Image -
 > 
 > <img width="2084" height="888" alt="model_comparison" src="https://github.com/user-attachments/assets/dfc69aba-0416-419c-8f02-3bd4aa55f0ad" />
 
